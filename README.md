@@ -59,7 +59,7 @@ Este proyecto fue desarrollado para explorar cómo la IA puede asistirnos en:
 
 ## 📜 Créditos
 Desarrollado por:  
-💻 **Julia Rodriguez** ✨
+💻 **Julia Daniela Rodriguez** ✨
 
 ## 📢 Contribuciones
 ¡Las mejoras y sugerencias son bienvenidas! Si deseas contribuir, abre un issue o envía un pull request.
